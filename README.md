@@ -72,33 +72,93 @@ Hardware Rig    : Custom Workstation (Thermal Profiled, BIOS / Tuning Optimized)
 
 <table>
   <tr>
-    <td width="25%" valign="top"><b>Languages & Runtimes</b></td>
-    <td>
-      <code>TypeScript</code> • <code>JavaScript</code> • <code>Python</code> • <code>PHP</code> • <code>Bash / Shell</code> • <code>PowerShell</code> • <code>SQL</code> • <code>HTML / CSS</code>
+    <td align="center" width="50%"><b>Frontend & UI/UX</b></td>
+    <td align="center" width="50%"><b>Backend & Persistence</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React" /></a> &nbsp;
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js" /></a> &nbsp;
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" /></a> &nbsp;
+      <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite" title="Vite" /></a>
+      <br/><br/>
+      <a href="https://motion.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/framer" width="40" height="40" alt="Framer Motion" title="Framer Motion" /></a> &nbsp;
+      <a href="https://lucide.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/lucide" width="40" height="40" alt="Lucide Icons" title="Lucide Icons" /></a> &nbsp;
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" title="Figma" /></a> &nbsp;
+      <a href="https://m3.material.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="Design Systems" title="Design Systems" /></a>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js" /></a> &nbsp;
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" title="Express.js" /></a> &nbsp;
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" title="PHP" /></a> &nbsp;
+      <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="RESTful APIs" title="RESTful APIs" /></a>
+      <br/><br/>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" title="MySQL" /></a> &nbsp;
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /></a> &nbsp;
+      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite (WAL Mode)" title="SQLite (WAL Mode)" /></a>
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>Frontend & UI/UX</b></td>
-    <td>
-      <code>React</code> • <code>Next.js</code> • <code>Tailwind CSS</code> • <code>Vite</code> • <code>Framer Motion</code> • <code>Lucide Icons</code> • <code>Figma</code> • <code>Design Systems</code>
+    <td align="center" width="50%"><b>Languages & Runtimes</b></td>
+    <td align="center" width="50%"><b>Infrastructure & Network</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript" /></a> &nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript" /></a> &nbsp;
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python" /></a> &nbsp;
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" title="PHP" /></a>
+      <br/><br/>
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash / Shell" title="Bash / Shell" /></a> &nbsp;
+      <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=powershell" width="40" height="40" alt="PowerShell" title="PowerShell" /></a> &nbsp;
+      <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="SQL" title="SQL" /></a>
+      <br/><br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" title="HTML5" /></a> &nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" title="CSS3" /></a>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" title="Linux" /></a> &nbsp;
+      <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu Server" title="Ubuntu Server" /></a> &nbsp;
+      <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=debian" width="40" height="40" alt="Debian" title="Debian" /></a> &nbsp;
+      <a href="https://almalinux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/almalinux/almalinux-original.svg" width="40" height="40" alt="AlmaLinux" title="AlmaLinux" /></a>
+      <br/><br/>
+      <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mikrotik" width="40" height="40" alt="MikroTik RouterOS" title="MikroTik RouterOS" /></a> &nbsp;
+      <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cisco" width="40" height="40" alt="Cisco IOS" title="Cisco IOS" /></a> &nbsp;
+      <a href="https://cpanel.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original.svg" width="40" height="40" alt="cPanel / WHM" title="cPanel / WHM" /></a> &nbsp;
+      <a href="https://www.cloudlinux.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CloudLinux-4B286D?style=flat-square&logo=linux&logoColor=white" height="40" alt="CloudLinux CageFS" title="CloudLinux CageFS" /></a>
+      <br/><br/>
+      <a href="https://www.litespeedtech.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LiteSpeed-005571?style=flat-square&logo=fastapi&logoColor=white" height="40" alt="LiteSpeed Enterprise" title="LiteSpeed Enterprise" /></a> &nbsp;
+      <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" title="Nginx" /></a> &nbsp;
+      <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="40" height="40" alt="Apache HTTP Server" title="Apache HTTP Server" /></a> &nbsp;
+      <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="Cloudflare DNS" title="Cloudflare DNS" /></a>
+      <br/><br/>
+      <a href="https://rclone.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/rclone" width="40" height="40" alt="Rclone Sync" title="Rclone Sync" /></a> &nbsp;
+      <a href="https://www.wireguard.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/wireguard" width="40" height="40" alt="WireGuard VPN" title="WireGuard VPN" /></a> &nbsp;
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git" /></a>
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>Backend & Persistence</b></td>
-    <td>
-      <code>Node.js</code> • <code>Express</code> • <code>PHP</code> • <code>MySQL</code> • <code>PostgreSQL</code> • <code>SQLite (WAL Mode)</code> • <code>RESTful APIs</code>
-    </td>
+    <td colspan="2" align="center"><b>Media & Diagnostics</b></td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>Infrastructure & Network</b></td>
-    <td>
-      <code>Linux (Ubuntu, Debian, AlmaLinux)</code> • <code>MikroTik RouterOS</code> • <code>Cisco IOS</code> • <code>cPanel / WHM</code> • <code>CloudLinux CageFS</code> • <code>LiteSpeed Enterprise</code> • <code>Nginx</code> • <code>Apache</code> • <code>Cloudflare DNS</code> • <code>Rclone</code> • <code>WireGuard</code> • <code>Git</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><b>Media & Diagnostics</b></td>
-    <td>
-      <code>FFmpeg</code> • <code>HWiNFO Telemetry</code> • <code>Digital Audio Workstations (DAW)</code> • <code>Audio Mixing Consoles</code> • <code>Adobe Premiere Pro</code> • <code>Adobe Lightroom</code> • <code>Adobe After Effects</code>
+    <td colspan="2" align="center" valign="top">
+      <br/>
+      <a href="https://ffmpeg.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ffmpeg" width="40" height="40" alt="FFmpeg" title="FFmpeg" /></a> &nbsp;
+      <a href="https://hwinfo-analyzer.majidtech.my.id/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HWiNFO-Telemetry-004488?style=flat-square&logo=speedtest&logoColor=white" height="40" alt="HWiNFO Telemetry" title="HWiNFO Telemetry" /></a> &nbsp;
+      <a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=au" width="40" height="40" alt="Digital Audio Workstations (DAW)" title="Digital Audio Workstations (DAW)" /></a> &nbsp;
+      <a href="https://en.wikipedia.org/wiki/Mixing_console" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Console-Audio_Mixing-111111?style=flat-square&logo=audioboom&logoColor=white" height="40" alt="Audio Mixing Consoles" title="Audio Mixing Consoles" /></a> &nbsp;
+      <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pr" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" /></a> &nbsp;
+      <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Adobe-Lightroom-31A8FF?style=flat-square&logo=adobe&logoColor=white" height="40" alt="Adobe Lightroom" title="Adobe Lightroom" /></a> &nbsp;
+      <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ae" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects" /></a>
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -117,8 +177,12 @@ Hardware Rig    : Custom Workstation (Thermal Profiled, BIOS / Tuning Optimized)
 ### 📊 GitHub Activity Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FASTERSTRONGER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FASTERSTRONGER&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FASTERSTRONGER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FASTERSTRONGER&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=FASTERSTRONGER&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 </div>
 
 ---
